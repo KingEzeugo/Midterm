@@ -27,7 +27,6 @@ _About: JosephEzeugo_
 
 To fufil the requirement for a screenshot here is one hosted in Github followed by one that is from outside the web.
   
-  ![ScreenShot](https://raw.github.com/{username}/{repository})
-  
+  ![Image](https://github.com/KingEzeugo/Midterm/issues/1#issue-1419086282)
   
   ![Image](https://st.depositphotos.com/1146092/2514/i/450/depositphotos_25143517-stock-photo-cool-dog.jpg)
