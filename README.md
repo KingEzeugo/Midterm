@@ -30,3 +30,15 @@ To fufil the requirement for a screenshot here is one hosted in Github followed 
   ![Image](https://github.com/KingEzeugo/Midterm/issues/1#issue-1419086282)
   
   ![Image](https://st.depositphotos.com/1146092/2514/i/450/depositphotos_25143517-stock-photo-cool-dog.jpg)
+  
+ If you would like to see each of these requirements on their own pages here is a list with the links.:
+   * Paragraphs.
+   * Headers.
+   * Links between the markdown pages.
+   * Links to other web sites.
+   * One or more images that are hosted in the GitHub repo.
+   * One or more images that are hosted elsewhere on the web.
+   * A list.
+   * Some text that is bolded.
+   * Some text that is italicized.
+   * A block of code.
