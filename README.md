@@ -5,7 +5,7 @@ Welcome to my midterm project. For this project we are told to work with GitHub 
 
 _About: JosephEzeugo_
  --------------------
- # Here is my block of code. I wasn't sure is I could use python code or not.
+ # Here is my block of code. I wasn't sure if I could use python code or not.
  
 print('Hello World!')
 
