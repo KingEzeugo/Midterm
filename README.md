@@ -5,7 +5,26 @@ Welcome to my midterm project. For this project we are told to work with GitHub 
 
 _About: JosephEzeugo_
  --------------------
-    
+ # Here is my block of code. I wasn't sure is I could use python code or not.
+ 
+print('Hello World!')
+
+print('My name is Joseph')
+
+print('I enjoy reading new and interesting books')
+
+print('I also love watching marvel movies')
+
+print('Another hobby of mine is cooking cultural food')
+a = """
+Hello World!
+My name is Joseph
+I enjoy reading new and interesting books
+I also love watching marvel movies
+Another hobby of mine is cooking cultural food
+"""
+
+
     
  # Here is a list of things I enjoy and why:
 
@@ -21,17 +40,19 @@ _About: JosephEzeugo_
 
 
 # I would also like to place the link to my linked in page here. 
+ 
  * Here it is [link](https://www.linkedin.com/in/joseph-ezeugo-705420222/). Feel free to connect with me.
+ 
  * I would alos like to give you a link to my dream car. Joe does a great job describing the vehicle [link](https://www.youtube.com/watch?v=6W4Kf8LxGsE) 
 
 
-To fufil the requirement for a screenshot here is one hosted in Github followed by one that is from outside the web.
+# To fufil the requirement for a screenshot here is one hosted in Github followed by one that is from outside the web.
   
   ![Image](https://github.com/KingEzeugo/Midterm/issues/1#issue-1419086282)
   
   ![Image](https://st.depositphotos.com/1146092/2514/i/450/depositphotos_25143517-stock-photo-cool-dog.jpg)
   
- If you would like to see each of these requirements on their own pages here is a list with the links.:
+ If you would like to see each of these requirements here is a list:
    * Paragraphs.
    * Headers.
    * Links between the markdown pages.
